@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+###############################################################################
+# Force GitHub to recognize this project as a C++ repository
+###############################################################################
+* linguist-language=C++
